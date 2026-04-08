@@ -2,7 +2,7 @@
 ## 📌 Perfil
 - **Nombre:** Juan Mauricio Suaza Solorzano.
 - **GitHub:** [@mauro-1508](https://github.com/mauro-1508)
-- **Email:** [suazasolorzano@gmail.com](mailto:suazasolorzanoj@gmail.com)
+- **Email:** [suazasolorzanoj@gmail.com](mailto:suazasolorzanoj@gmail.com)
 - **Organización institucional:** [code-sena](https://github.com/code-sena)
 
 ---
